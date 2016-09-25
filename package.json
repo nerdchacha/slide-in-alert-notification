@@ -1,0 +1,11 @@
+{
+  "name": "yg-notification",
+  "version": "1.0.0",
+  "description": "a module to show notifications on the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yatin Gera",
+  "license": "ISC"
+}
